@@ -1,8 +1,8 @@
 +++
-title = "hugo-xterm slides with reveal.js"
+title = "slides"
 description = """Slides created using reveal.js."""
-date = "2023-07-15"
-author = "Mani Kumar"
+date = "2024-08-04"
+author = "Ojas Tapadia"
 +++
 
 Introduction

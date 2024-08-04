@@ -9,6 +9,34 @@
       <copyright>Ojas Tapadia</copyright>
       <lastBuildDate>Sat, 15 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/hugo-xterm/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>slides</title>
+      <link>http://localhost:1313/hugo-xterm/slides/hugo-xterm-slides/</link>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
+
+      <guid>http://localhost:1313/hugo-xterm/slides/hugo-xterm-slides/</guid>
+      <description> Introduction Hugo theme for terminal users. Features Slides using reveal.js. Designed for blog and personal websites for professionals. Support for online CV and documentation. </description>
+      <content>
+&lt;h2 id=&#34;introduction&#34;&gt;
+  Introduction
+  &lt;a href=&#34;#introduction&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Hugo theme for terminal users.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;h2 id=&#34;features&#34;&gt;
+  Features
+  &lt;a href=&#34;#features&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Slides using &lt;a href=&#34;https://revealjs.com/&#34;&gt;reveal.js&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Designed for blog and personal websites for professionals.&lt;/li&gt;
+&lt;li&gt;Support for online CV and documentation.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    <item>
       <title>Markdown Syntax Guide</title>
       <link>http://localhost:1313/hugo-xterm/posts/markdown-syntax/</link>
       <pubDate>Mon, 06 May 2024 01:22:51 +0530</pubDate>
@@ -355,34 +383,6 @@ static and no-JS versions of various social media embeds.&lt;/p&gt;
 </content>
     </item>
     <item>
-      <title>hugo-xterm slides with reveal.js</title>
-      <link>http://localhost:1313/hugo-xterm/slides/hugo-xterm-slides/</link>
-      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
-
-      <guid>http://localhost:1313/hugo-xterm/slides/hugo-xterm-slides/</guid>
-      <description> Introduction Hugo theme for terminal users. Features Slides using reveal.js. Designed for blog and personal websites for professionals. Support for online CV and documentation. </description>
-      <content>
-&lt;h2 id=&#34;introduction&#34;&gt;
-  Introduction
-  &lt;a href=&#34;#introduction&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
-&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Hugo theme for terminal users.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-
-&lt;h2 id=&#34;features&#34;&gt;
-  Features
-  &lt;a href=&#34;#features&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
-&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Slides using &lt;a href=&#34;https://revealjs.com/&#34;&gt;reveal.js&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Designed for blog and personal websites for professionals.&lt;/li&gt;
-&lt;li&gt;Support for online CV and documentation.&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    </item>
-    <item>
       <title></title>
       <link>http://localhost:1313/hugo-xterm/docs/commands/awk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -707,9 +707,44 @@ features from popular themes and websites as listed below:&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 
       <guid>http://localhost:1313/hugo-xterm/cv/</guid>
-      <description>Experience AuraX July 2024 – Present Backend Developer Intern Remote Working as part of Data-Plane team to develop and maintain features for ActiveLogic product which processes internet packets. Technologies: C, Python, DPDK, NUMA, Data-Plane, TCP/IP, PostgreSQL
-Toshiba Software 21 Dec 2016 – 31 Jul 2019 Software Engineer Bangalore, India Worked in Device Layer development team where I designed &amp;amp; implemented custom size scan for Toshiba Multi-Functional Peripheral (MFP). With this feature the users can scan a non-standard paper sizes such as identity cards, bills and receipts.</description>
+      <description>Education VIT Vellore Expected May 2026 Bachelor of Engineering in Computer Science and Engineering Core, CGPA: 8.70 Tamil Nadu, India Relevant Coursework: Data Structures and Algorithms (C++), Prob &amp;amp; Stat in R(R), Structure and Object Oriented Programming (C and C++), Python (Python), Java(Java) Essar International School March 2021 - April 2022 High School, Class 12(CBSE): 91.20% Gujarat, India Relevant Coursework: Physics, Chemistry, Mathematics, Computer Science, English Experience AuraX July 2024 – Present Backend Developer Intern Remote Designed and implemented APIs to facilitate seamless communication between front-end and back-end systems.</description>
       <content>
+&lt;h2 id=&#34;education&#34;&gt;
+  Education
+  &lt;a href=&#34;#education&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;div class=&#34;cv-experience&#34;&gt;
+  &lt;div class=&#34;row lead&#34;&gt;
+    &lt;span&gt;VIT Vellore&lt;/span&gt;
+    &lt;span&gt;Expected May 2026&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;row sub&#34;&gt;
+    &lt;span&gt;Bachelor of Engineering in Computer Science and Engineering Core, CGPA: 8.70&lt;/span&gt;
+    &lt;span&gt;Tamil Nadu, India&lt;/span&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Relevant Coursework: Data Structures and Algorithms (C++), Prob &amp;amp; Stat in R(R), Structure and Object
+Oriented Programming (C and C++), Python (Python), Java(Java)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;cv-experience&#34;&gt;
+  &lt;div class=&#34;row lead&#34;&gt;
+    &lt;span&gt;Essar International School&lt;/span&gt;
+    &lt;span&gt;March 2021 - April 2022&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;row sub&#34;&gt;
+    &lt;span&gt;High School, Class 12(CBSE): 91.20%&lt;/span&gt;
+    &lt;span&gt;Gujarat, India&lt;/span&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Relevant Coursework: Physics, Chemistry, Mathematics, Computer Science, English&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h2 id=&#34;experience&#34;&gt;
   Experience
   &lt;a href=&#34;#experience&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
@@ -727,60 +762,151 @@ Toshiba Software 21 Dec 2016 – 31 Jul 2019 Software Engineer Bangalore, India 
 &lt;/div&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Working as part of Data-Plane team to develop and maintain features for
-ActiveLogic product which processes internet packets.&lt;/li&gt;
+&lt;li&gt;Designed and implemented APIs to facilitate seamless communication between front-end and back-end systems.&lt;/li&gt;
+&lt;li&gt;Managed SQL and NoSQL databases, ensuring efficient data storage and organization.&lt;/li&gt;
+&lt;li&gt;Integrated third-party services, APIs, and external systems into back-end infrastructure.&lt;/li&gt;
+&lt;li&gt;Utilized version control systems like Git to manage and track codebase changes effectively.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Technologies: C, Python, DPDK, NUMA, Data-Plane, TCP/IP, PostgreSQL&lt;/p&gt;
 &lt;div class=&#34;cv-experience&#34;&gt;
   &lt;div class=&#34;row lead&#34;&gt;
-    &lt;span&gt;Toshiba Software&lt;/span&gt;
-    &lt;span&gt;21 Dec 2016 – 31 Jul 2019&lt;/span&gt;
+    &lt;span&gt;Vicuna Kouture&lt;/span&gt;
+    &lt;span&gt;May 2024 - June 2024&lt;/span&gt;
   &lt;/div&gt;
 
   &lt;div class=&#34;row sub&#34;&gt;
-    &lt;span&gt;Software Engineer&lt;/span&gt;
-    &lt;span&gt;Bangalore, India&lt;/span&gt;
+    &lt;span&gt;Backend Developer Intern&lt;/span&gt;
+    &lt;span&gt;Remote&lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Worked in Device Layer development team where I designed &amp;amp; implemented
-custom size scan for Toshiba Multi-Functional Peripheral (MFP). With this
-feature the users can scan a non-standard paper sizes such as identity
-cards, bills and receipts.&lt;/li&gt;
+&lt;li&gt;Developed, integrated, and maintained APIs to support core application functionality.&lt;/li&gt;
+&lt;li&gt;Designed, implemented, and managed databases to ensure data integrity and efficiency.&lt;/li&gt;
+&lt;li&gt;Configured, deployed, and maintained servers for optimal hosting performance.&lt;/li&gt;
+&lt;li&gt;Optimized application code and server configurations for maximum speed and scalability.&lt;/li&gt;
+&lt;li&gt;Collaborated closely with frontend developers, designers to align technical solutions with business goals.&lt;/li&gt;
+&lt;li&gt;Utilized version control systems (e.g., Git) for effective code management and collaboration.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Technologies: C++, C, JPEG, PDF, OpenCV, Linux, Embedded Systems&lt;/p&gt;
-
-&lt;h2 id=&#34;education&#34;&gt;
-  Education
-  &lt;a href=&#34;#education&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
-&lt;/h2&gt;
 &lt;div class=&#34;cv-experience&#34;&gt;
   &lt;div class=&#34;row lead&#34;&gt;
-    &lt;span&gt;BMS College of Engineering&lt;/span&gt;
-    &lt;span&gt;Aug 2012 - Mar 2016&lt;/span&gt;
+    &lt;span&gt;Yantra - VIT&amp;#39;s Official Hackathon&lt;/span&gt;
+    &lt;span&gt;Feb 2024 - April 2024&lt;/span&gt;
   &lt;/div&gt;
 
   &lt;div class=&#34;row sub&#34;&gt;
-    &lt;span&gt;Bachelor of Engineering in Electronics and Communications&lt;/span&gt;
-    &lt;span&gt;Bangalore, India&lt;/span&gt;
+    &lt;span&gt;Organizer and Backend Developer&lt;/span&gt;
+    &lt;span&gt;Vellore, Tamil Nadu&lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
+&lt;ul&gt;
+&lt;li&gt;Implemented backend using Nextjs, NextAuth, PostgreSql, Typescript and was used by over 1000 participants&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;projects&#34;&gt;
+  Projects
+  &lt;a href=&#34;#projects&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;div class=&#34;cv-experience&#34;&gt;
+  &lt;div class=&#34;row lead&#34;&gt;
+    &lt;span&gt;Interactnow Backend&lt;/span&gt;
+    &lt;span&gt;June 2024 - Present&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;row sub&#34;&gt;
+    &lt;span&gt;&lt;/span&gt;
+    &lt;span&gt;Tamil Nadu, India&lt;/span&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Website: &lt;a href=&#34;https://interactnow.in/&#34;&gt;interactnow.in&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Worked on notification models and routines.&lt;/li&gt;
+&lt;li&gt;Implemented user and organization analytics.&lt;/li&gt;
+&lt;li&gt;Worked on organization and project history.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Tools and Language: Golang, Fiber, GORM, SQL&lt;/p&gt;
+&lt;div class=&#34;cv-experience&#34;&gt;
+  &lt;div class=&#34;row lead&#34;&gt;
+    &lt;span&gt;StoryForge.ai&lt;/span&gt;
+    &lt;span&gt;Feb 2024&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;row sub&#34;&gt;
+    &lt;span&gt;&lt;/span&gt;
+    &lt;span&gt;Tamil Nadu, India&lt;/span&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;github.com/Seudonym/StoryForge.ai&#34;&gt;Source code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Led project for StoryForge.ai, enhancing storytelling through prompts and image generation.&lt;/li&gt;
+&lt;li&gt;Developed platform utilizing GPT-2 model from huggingface.com.&lt;/li&gt;
+&lt;li&gt;Integrated OpenAI’s DALL-E-2 API for image generation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Tools and Language: Jupyter Notebook, Javascript, Python, CSS, HTML&lt;/p&gt;
+&lt;div class=&#34;cv-experience&#34;&gt;
+  &lt;div class=&#34;row lead&#34;&gt;
+    &lt;span&gt;Social Networking Application&lt;/span&gt;
+    &lt;span&gt;Feb 2024 - Mar 2024&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;row sub&#34;&gt;
+    &lt;span&gt;&lt;/span&gt;
+    &lt;span&gt;Tamil Nadu, India&lt;/span&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/0ju1c3/Nodejs-intern-assignment-3-submission&#34;&gt;Source code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Designed and implemented a RESTful API for a basic social networking application using Node.js and MongoDB.&lt;/li&gt;
+&lt;li&gt;Implemented JWT-based authentication for secure API access, including sign-up, log-in functionalities&lt;/li&gt;
+&lt;li&gt;Utilized MongoDB’s aggregation framework for efficient querying of the social feed, sorting posts by most recent.&lt;/li&gt;
+&lt;li&gt;Wrote comprehensive integration tests for API endpoints to ensure functionality and error handling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Tools and Language: Nodejs, Expressjs, MongoDB, Mongoose&lt;/p&gt;
+&lt;div class=&#34;cv-experience&#34;&gt;
+  &lt;div class=&#34;row lead&#34;&gt;
+    &lt;span&gt;Contact Manager backend&lt;/span&gt;
+    &lt;span&gt;Dec 2023 - Jan 2024&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;row sub&#34;&gt;
+    &lt;span&gt;&lt;/span&gt;
+    &lt;span&gt;Tamil Nadu, India&lt;/span&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Source Code:&lt;/li&gt;
+&lt;li&gt;Developed Contact-Manager backend application.&lt;/li&gt;
+&lt;li&gt;Implemented CRUD functionalities for managing contacts.&lt;/li&gt;
+&lt;li&gt;Ensured secure authentication and authorization using JWT.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&#34;technical-skills&#34;&gt;
   Technical Skills
   &lt;a href=&#34;#technical-skills&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
 &lt;/h2&gt;
-&lt;p&gt;Languages: C, C++, Python&lt;/p&gt;
-&lt;p&gt;Tools: Git, Docker, GDB, Valgrind, Gitlab, Vim, Ctags&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Languages: Javascript, C, C++, Python, Java, TypeScript, Go (Golang)&lt;/li&gt;
+&lt;li&gt;Web Development Technologies: Node.js, HTML, CSS, Express.js, Next.js, Fiber (Web Framework for Go)&lt;/li&gt;
+&lt;li&gt;Databases: MongoDB, PostgreSQL, MySQL, SQL&lt;/li&gt;
+&lt;li&gt;ORM Database Tools: Prisma, Mongoose, GORM (ORM Library for Go)&lt;/li&gt;
+&lt;li&gt;Version Control &amp;amp; Collaboration: Git, Github&lt;/li&gt;
+&lt;li&gt;Testing &amp;amp; Development Tools: Postman, Linux&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;h2 id=&#34;hobbies&#34;&gt;
-  Hobbies
-  &lt;a href=&#34;#hobbies&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;h2 id=&#34;hobby-projects&#34;&gt;
+  Hobby Projects
+  &lt;a href=&#34;#hobby-projects&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
 &lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Hugo theme &lt;a href=&#34;https://manid2.github.io/hugo-xterm/&#34;&gt;manid2/hugo-xterm&lt;/a&gt; for my website &lt;a href=&#34;https://manid2.gitlab.io/&#34;&gt;manid2.gitlab.io&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;My neovim config using lazy.nvim and kickstart.nvim: &lt;a href=&#34;github.com/0ju1c3/kickstart-nvim&#34;&gt;source code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Audio Visualizer using WebAudio and canvas API: &lt;a href=&#34;https://0ju1c3.github.io/Audio-Visualiser/&#34;&gt;website&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bubbly - web game using vanilla html, css, js and canvas api : &lt;a href=&#34;https://0ju1c3.github.io/Bubbly/&#34;&gt;website&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;My &lt;a href=&#34;https://github.com/0ju1c3/waybar-conf&#34;&gt;waybar&lt;/a&gt;, &lt;a href=&#34;https://github.com/0ju1c3/i3_conf&#34;&gt;i3&lt;/a&gt; and &lt;a href=&#34;https://github.com/0ju1c3/hyprland&#34;&gt;hyprland&lt;/a&gt; config&lt;/li&gt;
+&lt;li&gt;My neovim config using packer.nvim : &lt;a href=&#34;https://github.com/0ju1c3/custom_nvim_config&#34;&gt;source code&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
     </item>
