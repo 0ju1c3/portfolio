@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Commands on Hugo Xterm</title>
+    <link>http://localhost:1313/hugo-xterm/docs/commands/</link>
+    <description>Recent content in Commands on Hugo Xterm</description>
+    <generator>Hugo -- gohugo.io</generator>
+      <language>en</language>
+      <copyright>Ojas Tapadia</copyright>
+      <lastBuildDate>Sat, 15 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/hugo-xterm/docs/commands/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/hugo-xterm/docs/commands/awk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+
+      <guid>http://localhost:1313/hugo-xterm/docs/commands/awk/</guid>
+      <description> awk Lang: sh Copy 1# upper case the first letter 2awk &amp;#39;{for(i=1;i&amp;lt;=NF;i++){ $i=toupper(substr($i,1,1)) substr($i,2) }}1&amp;#39; file </description>
+      <content>
+&lt;h1 id=&#34;awk&#34;&gt;
+  awk
+  &lt;a href=&#34;#awk&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h1&gt;
+
+&lt;div class=&#34;highlight-wrapper&#34;&gt;
+  &lt;div class=&#34;highlight-toolbar&#34;&gt;
+    &lt;span class=&#34;item&#34;&gt;
+      &lt;span class=&#34;label&#34;&gt;Lang:&lt;/span&gt;
+      &lt;span class=&#34;name&#34;&gt;sh&lt;/span&gt;
+    &lt;/span&gt;
+
+
+    &lt;button class=&#34;item right outline brighter hide js-btn-copy-code&#34;&gt;Copy&lt;/button&gt;
+  &lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# upper case the first letter&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;awk &lt;span class=&#34;s1&#34;&gt;&amp;#39;{for(i=1;i&amp;lt;=NF;i++){ $i=toupper(substr($i,1,1)) substr($i,2) }}1&amp;#39;&lt;/span&gt; file&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</content>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/hugo-xterm/docs/commands/column/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+
+      <guid>http://localhost:1313/hugo-xterm/docs/commands/column/</guid>
+      <description> column Lang: sh Copy 1# format csv into table 2column -s, -t &amp;lt; DebugLogs_2023-01-17-182808.csv &amp;gt;/tmp/t.csv </description>
+      <content>
+&lt;h1 id=&#34;column&#34;&gt;
+  column
+  &lt;a href=&#34;#column&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h1&gt;
+
+&lt;div class=&#34;highlight-wrapper&#34;&gt;
+  &lt;div class=&#34;highlight-toolbar&#34;&gt;
+    &lt;span class=&#34;item&#34;&gt;
+      &lt;span class=&#34;label&#34;&gt;Lang:&lt;/span&gt;
+      &lt;span class=&#34;name&#34;&gt;sh&lt;/span&gt;
+    &lt;/span&gt;
+
+
+    &lt;button class=&#34;item right outline brighter hide js-btn-copy-code&#34;&gt;Copy&lt;/button&gt;
+  &lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# format csv into table&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;column -s, -t &amp;lt; DebugLogs_2023-01-17-182808.csv &amp;gt;/tmp/t.csv&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</content>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/hugo-xterm/docs/commands/grep/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+
+      <guid>http://localhost:1313/hugo-xterm/docs/commands/grep/</guid>
+      <description> grep Lang: sh Copy 1# get all lower case letters 2egrep &amp;#39;^[[:lower:]]+$&amp;#39; /usr/share/dict/words &amp;gt;/tmp/t.txt 3 4# remove duplicate lines 5grep -vxF -f /usr/share/dict/words /tmp/t2.txt &amp;gt;/tmp/t.txt </description>
+      <content>
+&lt;h1 id=&#34;grep&#34;&gt;
+  grep
+  &lt;a href=&#34;#grep&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h1&gt;
+
+&lt;div class=&#34;highlight-wrapper&#34;&gt;
+  &lt;div class=&#34;highlight-toolbar&#34;&gt;
+    &lt;span class=&#34;item&#34;&gt;
+      &lt;span class=&#34;label&#34;&gt;Lang:&lt;/span&gt;
+      &lt;span class=&#34;name&#34;&gt;sh&lt;/span&gt;
+    &lt;/span&gt;
+
+
+    &lt;button class=&#34;item right outline brighter hide js-btn-copy-code&#34;&gt;Copy&lt;/button&gt;
+  &lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# get all lower case letters&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;egrep &lt;span class=&#34;s1&#34;&gt;&amp;#39;^[[:lower:]]+$&amp;#39;&lt;/span&gt; /usr/share/dict/words &amp;gt;/tmp/t.txt
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;4&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# remove duplicate lines&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;5&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;grep -vxF -f /usr/share/dict/words /tmp/t2.txt &amp;gt;/tmp/t.txt&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</content>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/hugo-xterm/docs/commands/irssi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+
+      <guid>http://localhost:1313/hugo-xterm/docs/commands/irssi/</guid>
+      <description>Irssi Irssi - a modular IRC client for UNIX</description>
+      <content>
+&lt;h1 id=&#34;irssi&#34;&gt;
+  Irssi
+  &lt;a href=&#34;#irssi&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;Irssi - a modular IRC client for UNIX&lt;/p&gt;
+</content>
+    </item>
+  </channel>
+</rss>

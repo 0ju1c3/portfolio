@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ojas Tapadia on Hugo Xterm</title>
+    <link>http://localhost:1313/hugo-xterm/</link>
+    <description>Recent content in Ojas Tapadia on Hugo Xterm</description>
+    <generator>Hugo -- gohugo.io</generator>
+      <language>en</language>
+      <copyright>Ojas Tapadia</copyright>
+      <lastBuildDate>Sat, 15 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/hugo-xterm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>http://localhost:1313/hugo-xterm/posts/markdown-syntax/</link>
+      <pubDate>Mon, 06 May 2024 01:22:51 +0530</pubDate>
+
+      <guid>http://localhost:1313/hugo-xterm/posts/markdown-syntax/</guid>
+      <description>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
+Headings The following HTML &amp;lt;h1&amp;gt;—&amp;lt;h6&amp;gt; elements represent six levels of section headings. &amp;lt;h1&amp;gt; is the highest section level while &amp;lt;h6&amp;gt; is the lowest.
+H1 H2 H3 H4 H5 H6 Paragraph Xerum, quo qui aut unt expliquam qui dolut labo.</description>
+      <content>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo
+content files, also it shows whether basic HTML elements are decorated with
+CSS in a Hugo theme.&lt;/p&gt;
+
+&lt;h2 id=&#34;headings&#34;&gt;
+  Headings
+  &lt;a href=&#34;#headings&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;The following HTML &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt;—&lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; elements represent six levels of section
+headings. &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt; is the highest section level while &lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; is the lowest.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+
+&lt;h1 id=&#34;h1&#34;&gt;
+  H1
+  &lt;a href=&#34;#h1&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h1&gt;
+
+&lt;h2 id=&#34;h2&#34;&gt;
+  H2
+  &lt;a href=&#34;#h2&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;!-- raw HTML omitted --&gt;
+
+&lt;h3 id=&#34;h3&#34;&gt;
+  H3
+  &lt;a href=&#34;#h3&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h3&gt;
+
+&lt;h4 id=&#34;h4&#34;&gt;
+  H4
+  &lt;a href=&#34;#h4&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h4&gt;
+
+&lt;h5 id=&#34;h5&#34;&gt;
+  H5
+  &lt;a href=&#34;#h5&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h5&gt;
+
+&lt;h6 id=&#34;h6&#34;&gt;
+  H6
+  &lt;a href=&#34;#h6&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h6&gt;
+
+&lt;h2 id=&#34;paragraph&#34;&gt;
+  Paragraph
+  &lt;a href=&#34;#paragraph&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum,
+voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma
+dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as
+cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur?
+Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi,
+sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos
+evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam,
+ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores
+editium rerore eost, temped molorro ratiae volorro te reribus dolorer
+sperchicium faceata tiustia prat.&lt;/p&gt;
+&lt;p&gt;Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne
+sapicia is sinveli squiatum, core et que aut hariosam ex eat.&lt;/p&gt;
+
+&lt;h2 id=&#34;blockquotes&#34;&gt;
+  Blockquotes
+  &lt;a href=&#34;#blockquotes&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;The blockquote element represents content that is quoted from another source,
+optionally with a citation which must be within a &lt;code&gt;footer&lt;/code&gt; or &lt;code&gt;cite&lt;/code&gt; element,
+and optionally with in-line changes such as annotations and abbreviations.&lt;/p&gt;
+
+&lt;h3 id=&#34;blockquote-without-attribution&#34;&gt;
+  Blockquote without attribution
+  &lt;a href=&#34;#blockquote-without-attribution&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Tiam, ad mint andaepu dandae nostion secatur sequo quae.
+&lt;strong&gt;Note&lt;/strong&gt; that you can use &lt;em&gt;Markdown syntax&lt;/em&gt; within a blockquote.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;tables&#34;&gt;
+  Tables
+  &lt;a href=&#34;#tables&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Tables aren&amp;rsquo;t part of the core Markdown spec, but Hugo supports them
+out-of-the-box.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;Age&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Bob&lt;/td&gt;
+&lt;td&gt;27&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Alice&lt;/td&gt;
+&lt;td&gt;23&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;inline-markdown-within-tables&#34;&gt;
+  Inline Markdown within tables
+  &lt;a href=&#34;#inline-markdown-within-tables&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Italics&lt;/th&gt;
+&lt;th&gt;Bold&lt;/th&gt;
+&lt;th&gt;Code&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;italics&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;bold&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;code&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;code-blocks&#34;&gt;
+  Code Blocks
+  &lt;a href=&#34;#code-blocks&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;h3 id=&#34;inline-code&#34;&gt;
+  Inline Code
+  &lt;a href=&#34;#inline-code&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;This is Inline Code&lt;/code&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;code-block-with-backticks&#34;&gt;
+  Code block with backticks
+  &lt;a href=&#34;#code-block-with-backticks&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;!-- raw HTML omitted --&gt;
+
+&lt;div class=&#34;highlight-wrapper&#34;&gt;
+  &lt;div class=&#34;highlight-toolbar&#34;&gt;
+    &lt;span class=&#34;item&#34;&gt;
+      &lt;span class=&#34;label&#34;&gt;Lang:&lt;/span&gt;
+      &lt;span class=&#34;name&#34;&gt;&lt;/span&gt;
+    &lt;/span&gt;
+
+
+    &lt;button class=&#34;item right outline brighter hide js-btn-copy-code&#34;&gt;Copy&lt;/button&gt;
+  &lt;/div&gt;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&amp;lt;!DOCTYPE html&amp;gt;
+&amp;lt;html lang=&amp;#34;en&amp;#34;&amp;gt;
+    &amp;lt;head&amp;gt;
+        &amp;lt;meta charset=&amp;#34;utf-8&amp;#34; /&amp;gt;
+        &amp;lt;title&amp;gt;Example HTML5 Document&amp;lt;/title&amp;gt;
+    &amp;lt;/head&amp;gt;
+    &amp;lt;body&amp;gt;
+        &amp;lt;p&amp;gt;Test&amp;lt;/p&amp;gt;
+    &amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;!-- raw HTML omitted --&gt;
+
+&lt;h3 id=&#34;code-block-with-backticks-language--attributes-lineno-specified&#34;&gt;
+  Code block with backticks, language &amp;amp; attributes (lineno) specified
+  &lt;a href=&#34;#code-block-with-backticks-language--attributes-lineno-specified&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h3&gt;
+
+&lt;div class=&#34;highlight-wrapper&#34;&gt;
+  &lt;div class=&#34;highlight-toolbar&#34;&gt;
+    &lt;span class=&#34;item&#34;&gt;
+      &lt;span class=&#34;label&#34;&gt;Lang:&lt;/span&gt;
+      &lt;span class=&#34;name&#34;&gt;html&lt;/span&gt;
+    &lt;/span&gt;
+
+
+    &lt;button class=&#34;item right outline brighter hide js-btn-copy-code&#34;&gt;Copy&lt;/button&gt;
+  &lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt; 1&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;cp&#34;&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt; 2&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;html&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;lang&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;en&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt; 3&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt; 4&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;        &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;meta&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;charset&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;utf-8&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;/&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt; 5&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;        &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Example HTML5 Document&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt; 6&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;	&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;meta&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;description&amp;#34;&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;content&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;Sample article showcasing basic
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt; 7&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;s&#34;&gt;	Markdown syntax and formatting for HTML elements.&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt; 8&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt; 9&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;body&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;10&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;        &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Test&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;11&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;body&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;12&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;html&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;!-- raw HTML omitted --&gt;
+
+&lt;h3 id=&#34;code-block-indented-with-four-spaces&#34;&gt;
+  Code block indented with four spaces
+  &lt;a href=&#34;#code-block-indented-with-four-spaces&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;!doctype html&amp;gt;
+&amp;lt;html lang=&amp;quot;en&amp;quot;&amp;gt;
+&amp;lt;head&amp;gt;
+  &amp;lt;meta charset=&amp;quot;utf-8&amp;quot;&amp;gt;
+  &amp;lt;title&amp;gt;Example HTML5 Document&amp;lt;/title&amp;gt;
+&amp;lt;/head&amp;gt;
+&amp;lt;body&amp;gt;
+  &amp;lt;p&amp;gt;Test&amp;lt;/p&amp;gt;
+&amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;code-block-with-hugos-internal-highlight-shortcode&#34;&gt;
+  Code block with Hugo&amp;rsquo;s internal highlight shortcode
+  &lt;a href=&#34;#code-block-with-hugos-internal-highlight-shortcode&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt; 1&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;cp&#34;&gt;&amp;lt;!doctype html&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt; 2&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;html&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;lang&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;en&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt; 3&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt; 4&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;meta&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;charset&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;utf-8&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt; 5&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Example HTML5 Document&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt; 6&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt; 7&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;body&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt; 8&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Test&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt; 9&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;body&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;10&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;html&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;!-- raw HTML omitted --&gt;
+
+&lt;h3 id=&#34;gist&#34;&gt;
+  Gist
+  &lt;a href=&#34;#gist&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;script src=&#34;https://gist.github.com/spf13/7896402.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;h2 id=&#34;list-types&#34;&gt;
+  List Types
+  &lt;a href=&#34;#list-types&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;h3 id=&#34;ordered-list&#34;&gt;
+  Ordered List
+  &lt;a href=&#34;#ordered-list&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;First item&lt;/li&gt;
+&lt;li&gt;Second item&lt;/li&gt;
+&lt;li&gt;Third item&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;unordered-list&#34;&gt;
+  Unordered List
+  &lt;a href=&#34;#unordered-list&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;List item&lt;/li&gt;
+&lt;li&gt;Another item&lt;/li&gt;
+&lt;li&gt;And another item&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;nested-list&#34;&gt;
+  Nested list
+  &lt;a href=&#34;#nested-list&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fruit
+&lt;ul&gt;
+&lt;li&gt;Apple&lt;/li&gt;
+&lt;li&gt;Orange&lt;/li&gt;
+&lt;li&gt;Banana&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Dairy
+&lt;ul&gt;
+&lt;li&gt;Milk&lt;/li&gt;
+&lt;li&gt;Cheese&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    <item>
+      <title>Rich Content</title>
+      <link>http://localhost:1313/hugo-xterm/posts/rich-content/</link>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
+
+      <guid>http://localhost:1313/hugo-xterm/posts/rich-content/</guid>
+      <description>Hugo ships with several Built-in Shortcodes for rich content, along with a Privacy Config and a set of simple Shortcodes that enable static and no-JS versions of various social media embeds.
+YouTube Privacy Enhanced Shortcode Vimeo Simple Shortcode </description>
+      <content>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along
+with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of simple Shortcodes that enable
+static and no-JS versions of various social media embeds.&lt;/p&gt;
+
+&lt;h2 id=&#34;youtube-privacy-enhanced-shortcode&#34;&gt;
+  YouTube Privacy Enhanced Shortcode
+  &lt;a href=&#34;#youtube-privacy-enhanced-shortcode&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h2&gt;
+
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/ZJthWmvUzzc?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+
+&lt;h2 id=&#34;vimeo-simple-shortcode&#34;&gt;
+  Vimeo Simple Shortcode
+  &lt;a href=&#34;#vimeo-simple-shortcode&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;style&gt;
+.__h_video {
+   position: relative;
+   padding-bottom: 56.23%;
+   height: 0;
+   overflow: hidden;
+   width: 100%;
+   background: #000;
+}
+.__h_video img {
+   width: 100%;
+   height: auto;
+   color: #000;
+}
+.__h_video .play {
+   height: 72px;
+   width: 72px;
+   left: 50%;
+   top: 50%;
+   margin-left: -36px;
+   margin-top: -36px;
+   position: absolute;
+   cursor: pointer;
+}
+&lt;/style&gt;&lt;div class=&#34;s_video_simple __h_video&#34;&gt;
+          &lt;a href=&#34;https://vimeo.com/4.8912912e&amp;#43;07&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;
+            &lt;img src=&#34;https://i.vimeocdn.com/video/337401969-979f0cc9f55fdf305fb8984e90d92639ec9d7ecc4c9dfbc6536e28edb43784ce-d_640&#34; srcset=&#34;https://i.vimeocdn.com/video/337401969-979f0cc9f55fdf305fb8984e90d92639ec9d7ecc4c9dfbc6536e28edb43784ce-d_640 1x, https://i.vimeocdn.com/video/337401969-979f0cc9f55fdf305fb8984e90d92639ec9d7ecc4c9dfbc6536e28edb43784ce-d_640 2x&#34; alt=&#34;Sing Jan Swing - Kinetic Type&#34;&gt;
+            &lt;div class=&#34;play&#34;&gt;
+              &lt;svg version=&#34;1&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 61 61&#34;&gt;&lt;circle cx=&#34;30.5&#34; cy=&#34;30.5&#34; r=&#34;30.5&#34; opacity=&#34;.8&#34; fill=&#34;#000&#34;&gt;&lt;/circle&gt;&lt;path d=&#34;M25.3 19.2c-2.1-1.2-3.8-.2-3.8 2.2v18.1c0 2.4 1.7 3.4 3.8 2.2l16.6-9.1c2.1-1.2 2.1-3.2 0-4.4l-16.6-9z&#34; fill=&#34;#fff&#34;&gt;&lt;/path&gt;&lt;/svg&gt;
+            &lt;/div&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
+</content>
+    </item>
+    <item>
+      <title>hugo-xterm slides with reveal.js</title>
+      <link>http://localhost:1313/hugo-xterm/slides/hugo-xterm-slides/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+
+      <guid>http://localhost:1313/hugo-xterm/slides/hugo-xterm-slides/</guid>
+      <description> Introduction Hugo theme for terminal users. Features Slides using reveal.js. Designed for blog and personal websites for professionals. Support for online CV and documentation. </description>
+      <content>
+&lt;h2 id=&#34;introduction&#34;&gt;
+  Introduction
+  &lt;a href=&#34;#introduction&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Hugo theme for terminal users.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;h2 id=&#34;features&#34;&gt;
+  Features
+  &lt;a href=&#34;#features&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Slides using &lt;a href=&#34;https://revealjs.com/&#34;&gt;reveal.js&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Designed for blog and personal websites for professionals.&lt;/li&gt;
+&lt;li&gt;Support for online CV and documentation.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/hugo-xterm/docs/commands/awk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+
+      <guid>http://localhost:1313/hugo-xterm/docs/commands/awk/</guid>
+      <description> awk Lang: sh Copy 1# upper case the first letter 2awk &amp;#39;{for(i=1;i&amp;lt;=NF;i++){ $i=toupper(substr($i,1,1)) substr($i,2) }}1&amp;#39; file </description>
+      <content>
+&lt;h1 id=&#34;awk&#34;&gt;
+  awk
+  &lt;a href=&#34;#awk&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h1&gt;
+
+&lt;div class=&#34;highlight-wrapper&#34;&gt;
+  &lt;div class=&#34;highlight-toolbar&#34;&gt;
+    &lt;span class=&#34;item&#34;&gt;
+      &lt;span class=&#34;label&#34;&gt;Lang:&lt;/span&gt;
+      &lt;span class=&#34;name&#34;&gt;sh&lt;/span&gt;
+    &lt;/span&gt;
+
+
+    &lt;button class=&#34;item right outline brighter hide js-btn-copy-code&#34;&gt;Copy&lt;/button&gt;
+  &lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# upper case the first letter&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;awk &lt;span class=&#34;s1&#34;&gt;&amp;#39;{for(i=1;i&amp;lt;=NF;i++){ $i=toupper(substr($i,1,1)) substr($i,2) }}1&amp;#39;&lt;/span&gt; file&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</content>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/hugo-xterm/docs/commands/column/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+
+      <guid>http://localhost:1313/hugo-xterm/docs/commands/column/</guid>
+      <description> column Lang: sh Copy 1# format csv into table 2column -s, -t &amp;lt; DebugLogs_2023-01-17-182808.csv &amp;gt;/tmp/t.csv </description>
+      <content>
+&lt;h1 id=&#34;column&#34;&gt;
+  column
+  &lt;a href=&#34;#column&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h1&gt;
+
+&lt;div class=&#34;highlight-wrapper&#34;&gt;
+  &lt;div class=&#34;highlight-toolbar&#34;&gt;
+    &lt;span class=&#34;item&#34;&gt;
+      &lt;span class=&#34;label&#34;&gt;Lang:&lt;/span&gt;
+      &lt;span class=&#34;name&#34;&gt;sh&lt;/span&gt;
+    &lt;/span&gt;
+
+
+    &lt;button class=&#34;item right outline brighter hide js-btn-copy-code&#34;&gt;Copy&lt;/button&gt;
+  &lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# format csv into table&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;column -s, -t &amp;lt; DebugLogs_2023-01-17-182808.csv &amp;gt;/tmp/t.csv&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</content>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/hugo-xterm/docs/commands/grep/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+
+      <guid>http://localhost:1313/hugo-xterm/docs/commands/grep/</guid>
+      <description> grep Lang: sh Copy 1# get all lower case letters 2egrep &amp;#39;^[[:lower:]]+$&amp;#39; /usr/share/dict/words &amp;gt;/tmp/t.txt 3 4# remove duplicate lines 5grep -vxF -f /usr/share/dict/words /tmp/t2.txt &amp;gt;/tmp/t.txt </description>
+      <content>
+&lt;h1 id=&#34;grep&#34;&gt;
+  grep
+  &lt;a href=&#34;#grep&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h1&gt;
+
+&lt;div class=&#34;highlight-wrapper&#34;&gt;
+  &lt;div class=&#34;highlight-toolbar&#34;&gt;
+    &lt;span class=&#34;item&#34;&gt;
+      &lt;span class=&#34;label&#34;&gt;Lang:&lt;/span&gt;
+      &lt;span class=&#34;name&#34;&gt;sh&lt;/span&gt;
+    &lt;/span&gt;
+
+
+    &lt;button class=&#34;item right outline brighter hide js-btn-copy-code&#34;&gt;Copy&lt;/button&gt;
+  &lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# get all lower case letters&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;egrep &lt;span class=&#34;s1&#34;&gt;&amp;#39;^[[:lower:]]+$&amp;#39;&lt;/span&gt; /usr/share/dict/words &amp;gt;/tmp/t.txt
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;4&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# remove duplicate lines&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;5&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;grep -vxF -f /usr/share/dict/words /tmp/t2.txt &amp;gt;/tmp/t.txt&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</content>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/hugo-xterm/docs/commands/irssi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+
+      <guid>http://localhost:1313/hugo-xterm/docs/commands/irssi/</guid>
+      <description>Irssi Irssi - a modular IRC client for UNIX</description>
+      <content>
+&lt;h1 id=&#34;irssi&#34;&gt;
+  Irssi
+  &lt;a href=&#34;#irssi&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;Irssi - a modular IRC client for UNIX&lt;/p&gt;
+</content>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/hugo-xterm/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+
+      <guid>http://localhost:1313/hugo-xterm/about/</guid>
+      <description>Hugo theme designed for reading and printing text with dark and light modes.
+Features Distinguishing features Designed for reading and printing text. Print: any page in light theme mode for readability. CV: or resume template to reduce vertical space by using 2 columns and shortcodes to list the experiences and skills. Slides: support using reveal.js. Lists: separate view and pagination for simple list items and post entries. GitInfo: show the latest git commit short hash and subject message for each page (requires Hugo GitInfo config enabled).</description>
+      <content>&lt;p&gt;Hugo theme designed for reading and printing text with dark and light modes.&lt;/p&gt;
+
+&lt;h2 id=&#34;features&#34;&gt;
+  Features
+  &lt;a href=&#34;#features&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;h3 id=&#34;distinguishing-features&#34;&gt;
+  Distinguishing features
+  &lt;a href=&#34;#distinguishing-features&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Designed for &lt;strong&gt;reading&lt;/strong&gt; and &lt;strong&gt;printing&lt;/strong&gt; text.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Print:&lt;/strong&gt; any page in light theme mode for readability.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://manid2.gitlab.io/cv/&#34;&gt;CV&lt;/a&gt;:&lt;/strong&gt; or resume template to reduce vertical space by using 2 columns
+and shortcodes to list the experiences and skills.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Slides:&lt;/strong&gt; support using &lt;a href=&#34;https://github.com/hakimel/reveal.js&#34;&gt;reveal.js&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lists&lt;/strong&gt;: separate view and pagination for simple list items and post
+entries.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GitInfo:&lt;/strong&gt; show the latest git commit short hash and subject message for
+each page (requires Hugo GitInfo config enabled).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fonts:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&amp;ldquo;Roboto Slab (serif)&amp;rdquo;&lt;/strong&gt; for title (heading) text.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&amp;ldquo;Fira Sans (sans-serif)&amp;rdquo;&lt;/strong&gt; for normal text.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&amp;ldquo;Ubuntu Mono (monospace)&amp;rdquo;&lt;/strong&gt; for code.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Colors:&lt;/strong&gt; in the theme are derived using a single primary color (blue)
+from the &lt;a href=&#34;https://en.wikipedia.org/wiki/HSL_and_HSV&#34;&gt;HSL colors&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Website banner is supported.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;adopted-features&#34;&gt;
+  Adopted features
+  &lt;a href=&#34;#adopted-features&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Minimal configuration.&lt;/li&gt;
+&lt;li&gt;Switchable dark and light themes with automatic selection based on system
+theme.&lt;/li&gt;
+&lt;li&gt;SEO friendly OpenGraph and twitter cards support&lt;/li&gt;
+&lt;li&gt;Customizable using configurations for: &amp;ldquo;full width&amp;rdquo;, &amp;ldquo;centered&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;Taxonomies and posts RSS.&lt;/li&gt;
+&lt;li&gt;Responsive tested on desktop and on smart phones.&lt;/li&gt;
+&lt;li&gt;Responsive menus for desktop and mobile screens.&lt;/li&gt;
+&lt;li&gt;Accessibility tested using &lt;a href=&#34;https://wave.webaim.org/&#34;&gt;WAVE Web Accessibility Evaluation Tool&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Code blocks are highlighted using Hugo built-in blazing fast &lt;a href=&#34;https://github.com/alecthomas/chroma/&#34;&gt;Chroma&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Copy code, see code language and file name (optional).&lt;/li&gt;
+&lt;li&gt;Tightly coupled with Hugo extended latest version (v1.110.0) to compile and
+generate asset bundles with pipelines, fingerprinting and minification.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;other-features&#34;&gt;
+  Other features
+  &lt;a href=&#34;#other-features&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;These are supported due to &lt;a href=&#34;https://github.com/panr/hugo-theme-terminal&#34;&gt;panr/terminal&lt;/a&gt; theme base code but not
+tested as I don&amp;rsquo;t use them myself:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Post cover image.&lt;/li&gt;
+&lt;li&gt;Images in post with caption.&lt;/li&gt;
+&lt;li&gt;Comments.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;installation&#34;&gt;
+  Installation
+  &lt;a href=&#34;#installation&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Follow the steps in any one of these methods to install or update a Hugo
+theme.&lt;/p&gt;
+
+&lt;h3 id=&#34;method---using-hugo-mod&#34;&gt;
+  Method - Using hugo mod
+  &lt;a href=&#34;#method---using-hugo-mod&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;Add hugo-xterm theme as Hugo module to hide the theme content and let you
+focus only on your site content. Let Hugo handle the theme updates
+automatically and control the theme as a Hugo module instead of git.&lt;/p&gt;
+
+&lt;div class=&#34;highlight-wrapper&#34;&gt;
+  &lt;div class=&#34;highlight-toolbar&#34;&gt;
+    &lt;span class=&#34;item&#34;&gt;
+      &lt;span class=&#34;label&#34;&gt;Lang:&lt;/span&gt;
+      &lt;span class=&#34;name&#34;&gt;bash&lt;/span&gt;
+    &lt;/span&gt;
+
+
+    &lt;button class=&#34;item right outline brighter hide js-btn-copy-code&#34;&gt;Copy&lt;/button&gt;
+  &lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt; 1&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;cd&lt;/span&gt; &amp;lt;your-site-directory&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt; 2&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt; 3&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# initialize your site as a hugo module.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt; 4&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;hugo mod init &amp;lt;your-repo-host/your-username/your-site-repo&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt; 5&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt; 6&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# import hugo-xterm theme as hugo module in configuration&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt; 7&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;$ cat config/_default/config.toml
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt; 8&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;module&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt; 9&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;o&#34;&gt;[[&lt;/span&gt;module.imports&lt;span class=&#34;o&#34;&gt;]]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;10&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nv&#34;&gt;path&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;github.com/manid2/hugo-xterm&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;11&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;12&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# update theme&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;13&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;hugo mod get -u&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;For all below methods your site needs to point to hugo-xterm theme
+subdirectory in configuration as below:&lt;/p&gt;
+
+&lt;div class=&#34;highlight-wrapper&#34;&gt;
+  &lt;div class=&#34;highlight-toolbar&#34;&gt;
+    &lt;span class=&#34;item&#34;&gt;
+      &lt;span class=&#34;label&#34;&gt;Lang:&lt;/span&gt;
+      &lt;span class=&#34;name&#34;&gt;bash&lt;/span&gt;
+    &lt;/span&gt;
+
+
+    &lt;button class=&#34;item right outline brighter hide js-btn-copy-code&#34;&gt;Copy&lt;/button&gt;
+  &lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;$ cat config/_default/config.toml
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nv&#34;&gt;theme&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;hugo-xterm&amp;#34;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&#34;method---download-and-copy-theme&#34;&gt;
+  Method - Download and copy theme
+  &lt;a href=&#34;#method---download-and-copy-theme&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;Download the archived (i.e. .zip or tar.gz) theme from github repository
+releases page. Extract and copy the contents into &lt;code&gt;themes/hugo-xterm&lt;/code&gt;
+subdirectory in your site directory.&lt;/p&gt;
+&lt;p&gt;To update the theme just download a new release and overwrite the same
+subdirectory.&lt;/p&gt;
+&lt;p&gt;This method is simple, can be automated with script and saves space on disk by
+omitting the theme repository history.&lt;/p&gt;
+
+&lt;h3 id=&#34;method---using-git-clone&#34;&gt;
+  Method - Using git clone
+  &lt;a href=&#34;#method---using-git-clone&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;This method clones the theme repository with history into your site&amp;rsquo;s themes
+subdirectory which is useful if you want to control the history or make your
+own private modifications to the theme.&lt;/p&gt;
+
+&lt;div class=&#34;highlight-wrapper&#34;&gt;
+  &lt;div class=&#34;highlight-toolbar&#34;&gt;
+    &lt;span class=&#34;item&#34;&gt;
+      &lt;span class=&#34;label&#34;&gt;Lang:&lt;/span&gt;
+      &lt;span class=&#34;name&#34;&gt;bash&lt;/span&gt;
+    &lt;/span&gt;
+
+
+    &lt;button class=&#34;item right outline brighter hide js-btn-copy-code&#34;&gt;Copy&lt;/button&gt;
+  &lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;cd&lt;/span&gt; &amp;lt;your-site-directory&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;git clone https://github.com/manid2/hugo-xterm themes/hugo-xterm --depth&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;4&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# update theme&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;5&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;cd&lt;/span&gt; themes/hugo-xterm
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;6&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;git pull&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&#34;method---using-git-submodule&#34;&gt;
+  Method - Using git submodule
+  &lt;a href=&#34;#method---using-git-submodule&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;This is similar to cloning the theme into subdirectory except using git
+submodule which makes the theme acts a dependency of your site repository. It
+lets git to control your site and its dependency this theme.&lt;/p&gt;
+
+&lt;div class=&#34;highlight-wrapper&#34;&gt;
+  &lt;div class=&#34;highlight-toolbar&#34;&gt;
+    &lt;span class=&#34;item&#34;&gt;
+      &lt;span class=&#34;label&#34;&gt;Lang:&lt;/span&gt;
+      &lt;span class=&#34;name&#34;&gt;bash&lt;/span&gt;
+    &lt;/span&gt;
+
+
+    &lt;button class=&#34;item right outline brighter hide js-btn-copy-code&#34;&gt;Copy&lt;/button&gt;
+  &lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;git submodule add --depth&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; https://github.com/manid2/hugo-xterm &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;themes/hugo-xterm
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;4&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# update theme&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;5&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;git submodule update --remote --merge&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&#34;local-development&#34;&gt;
+  Local development
+  &lt;a href=&#34;#local-development&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;div class=&#34;highlight-wrapper&#34;&gt;
+  &lt;div class=&#34;highlight-toolbar&#34;&gt;
+    &lt;span class=&#34;item&#34;&gt;
+      &lt;span class=&#34;label&#34;&gt;Lang:&lt;/span&gt;
+      &lt;span class=&#34;name&#34;&gt;bash&lt;/span&gt;
+    &lt;/span&gt;
+
+
+    &lt;button class=&#34;item right outline brighter hide js-btn-copy-code&#34;&gt;Copy&lt;/button&gt;
+  &lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# add to go.mod for local development&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# replace github.com/manid2/hugo-xterm =&amp;gt; ../hugo-xterm&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;hugo server --source exampleSite&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&#34;credits&#34;&gt;
+  Credits
+  &lt;a href=&#34;#credits&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;This theme was initially based on &lt;a href=&#34;https://github.com/panr/hugo-theme-terminal&#34;&gt;panr/terminal&lt;/a&gt; theme but is re-written
+from scratch to optimize for reading and print text heavy web pages.&lt;/p&gt;
+&lt;p&gt;Parts of the features in this theme are either taken directly or based on the
+features from popular themes and websites as listed below:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/panr/hugo-theme-terminal&#34;&gt;panr/terminal&lt;/a&gt;: most styles, menus and starter code.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/adityatelange/hugo-PaperMod&#34;&gt;adityatelange/hugo-PaperMod&lt;/a&gt; features: breadcrumbs and copy code.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kaitlinmctigue/kaitlinmctigue.github.io&#34;&gt;kaitlinmctigue/kaitlinmctigue.github.io&lt;/a&gt;: dark and light theme modes.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;license&#34;&gt;
+  License
+  &lt;a href=&#34;#license&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/manid2/hugo-xterm/blob/main/LICENSE&#34;&gt;GNU General Public License v3.0&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    <item>
+      <title>CV</title>
+      <link>http://localhost:1313/hugo-xterm/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+
+      <guid>http://localhost:1313/hugo-xterm/cv/</guid>
+      <description>Experience AuraX July 2024 – Present Backend Developer Intern Remote Working as part of Data-Plane team to develop and maintain features for ActiveLogic product which processes internet packets. Technologies: C, Python, DPDK, NUMA, Data-Plane, TCP/IP, PostgreSQL
+Toshiba Software 21 Dec 2016 – 31 Jul 2019 Software Engineer Bangalore, India Worked in Device Layer development team where I designed &amp;amp; implemented custom size scan for Toshiba Multi-Functional Peripheral (MFP). With this feature the users can scan a non-standard paper sizes such as identity cards, bills and receipts.</description>
+      <content>
+&lt;h2 id=&#34;experience&#34;&gt;
+  Experience
+  &lt;a href=&#34;#experience&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;div class=&#34;cv-experience&#34;&gt;
+  &lt;div class=&#34;row lead&#34;&gt;
+    &lt;span&gt;AuraX&lt;/span&gt;
+    &lt;span&gt;July 2024 – Present&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;row sub&#34;&gt;
+    &lt;span&gt;Backend Developer Intern&lt;/span&gt;
+    &lt;span&gt;Remote&lt;/span&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Working as part of Data-Plane team to develop and maintain features for
+ActiveLogic product which processes internet packets.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Technologies: C, Python, DPDK, NUMA, Data-Plane, TCP/IP, PostgreSQL&lt;/p&gt;
+&lt;div class=&#34;cv-experience&#34;&gt;
+  &lt;div class=&#34;row lead&#34;&gt;
+    &lt;span&gt;Toshiba Software&lt;/span&gt;
+    &lt;span&gt;21 Dec 2016 – 31 Jul 2019&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;row sub&#34;&gt;
+    &lt;span&gt;Software Engineer&lt;/span&gt;
+    &lt;span&gt;Bangalore, India&lt;/span&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Worked in Device Layer development team where I designed &amp;amp; implemented
+custom size scan for Toshiba Multi-Functional Peripheral (MFP). With this
+feature the users can scan a non-standard paper sizes such as identity
+cards, bills and receipts.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Technologies: C++, C, JPEG, PDF, OpenCV, Linux, Embedded Systems&lt;/p&gt;
+
+&lt;h2 id=&#34;education&#34;&gt;
+  Education
+  &lt;a href=&#34;#education&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;div class=&#34;cv-experience&#34;&gt;
+  &lt;div class=&#34;row lead&#34;&gt;
+    &lt;span&gt;BMS College of Engineering&lt;/span&gt;
+    &lt;span&gt;Aug 2012 - Mar 2016&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;row sub&#34;&gt;
+    &lt;span&gt;Bachelor of Engineering in Electronics and Communications&lt;/span&gt;
+    &lt;span&gt;Bangalore, India&lt;/span&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h2 id=&#34;technical-skills&#34;&gt;
+  Technical Skills
+  &lt;a href=&#34;#technical-skills&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Languages: C, C++, Python&lt;/p&gt;
+&lt;p&gt;Tools: Git, Docker, GDB, Valgrind, Gitlab, Vim, Ctags&lt;/p&gt;
+
+&lt;h2 id=&#34;hobbies&#34;&gt;
+  Hobbies
+  &lt;a href=&#34;#hobbies&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Hugo theme &lt;a href=&#34;https://manid2.github.io/hugo-xterm/&#34;&gt;manid2/hugo-xterm&lt;/a&gt; for my website &lt;a href=&#34;https://manid2.gitlab.io/&#34;&gt;manid2.gitlab.io&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+  </channel>
+</rss>
