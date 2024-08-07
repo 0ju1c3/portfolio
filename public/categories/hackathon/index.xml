@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hackathon on Hugo Xterm</title>
+    <link>http://localhost:1313/hugo-xterm/categories/hackathon/</link>
+    <description>Recent content in Hackathon on Hugo Xterm</description>
+    <generator>Hugo -- gohugo.io</generator>
+      <language>en</language>
+      <copyright>Ojas Tapadia</copyright>
+      <lastBuildDate>Mon, 06 May 2024 01:22:51 +0530</lastBuildDate><atom:link href="http://localhost:1313/hugo-xterm/categories/hackathon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Our First Hackathon Experience</title>
+      <link>http://localhost:1313/hugo-xterm/posts/firsthack/</link>
+      <pubDate>Mon, 06 May 2024 01:22:51 +0530</pubDate>
+
+      <guid>http://localhost:1313/hugo-xterm/posts/firsthack/</guid>
+      <description></description>
+      <content></content>
+    </item>
+  </channel>
+</rss>

@@ -11,6 +11,12 @@
     <loc>http://localhost:1313/hugo-xterm/tags/css/</loc>
     <lastmod>2024-05-06T01:22:51+05:30</lastmod>
   </url><url>
+    <loc>http://localhost:1313/hugo-xterm/tags/hackathon/</loc>
+    <lastmod>2024-05-06T01:22:51+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugo-xterm/categories/hackathon/</loc>
+    <lastmod>2024-05-06T01:22:51+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/hugo-xterm/tags/html/</loc>
     <lastmod>2024-05-06T01:22:51+05:30</lastmod>
   </url><url>
@@ -18,6 +24,9 @@
     <lastmod>2024-05-06T01:22:51+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/hugo-xterm/posts/markdown-syntax/</loc>
+    <lastmod>2024-05-06T01:22:51+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugo-xterm/posts/firsthack/</loc>
     <lastmod>2024-05-06T01:22:51+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/hugo-xterm/posts/</loc>

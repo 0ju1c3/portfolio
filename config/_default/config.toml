@@ -54,7 +54,7 @@ paginate = 20
       [[languages.en.menu.main]]
         identifier = "terminal"
         name = "Terminal Portfolio"
-        url = "portfolio-website/index.html"
+        url = "/terminal-portfolio/index.html"
 
 [markup]
   [markup.tableOfContents]

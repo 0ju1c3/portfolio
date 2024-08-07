@@ -320,6 +320,15 @@ out-of-the-box.&lt;/p&gt;
 </content>
     </item>
     <item>
+      <title>Our First Hackathon Experience</title>
+      <link>http://localhost:1313/hugo-xterm/posts/firsthack/</link>
+      <pubDate>Mon, 06 May 2024 01:22:51 +0530</pubDate>
+
+      <guid>http://localhost:1313/hugo-xterm/posts/firsthack/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    <item>
       <title>Rich Content</title>
       <link>http://localhost:1313/hugo-xterm/posts/rich-content/</link>
       <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
@@ -479,226 +488,201 @@ static and no-JS versions of various social media embeds.&lt;/p&gt;
 </content>
     </item>
     <item>
-      <title>About</title>
+      <title>About Me</title>
       <link>http://localhost:1313/hugo-xterm/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 
       <guid>http://localhost:1313/hugo-xterm/about/</guid>
-      <description>Hugo theme designed for reading and printing text with dark and light modes.
-Features Distinguishing features Designed for reading and printing text. Print: any page in light theme mode for readability. CV: or resume template to reduce vertical space by using 2 columns and shortcodes to list the experiences and skills. Slides: support using reveal.js. Lists: separate view and pagination for simple list items and post entries. GitInfo: show the latest git commit short hash and subject message for each page (requires Hugo GitInfo config enabled).</description>
-      <content>&lt;p&gt;Hugo theme designed for reading and printing text with dark and light modes.&lt;/p&gt;
-
-&lt;h2 id=&#34;features&#34;&gt;
-  Features
-  &lt;a href=&#34;#features&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+      <description>What I&amp;rsquo;m Into When I’m not coding, you’ll probably find me doing one of the following:
+Projects Reading: I love reading tech books and novels and sometimes philosophy as well xd. Neovim &amp;amp; Arch Linux: And if I am bored out of the above two, I&amp;rsquo;m probably in too occupied cofiguring my arch linux and neovim to realize I&amp;rsquo;m in an endless black hole. What I Do Best Backend Development: I have spent a considerable amount of time in backend, there is always more to learn though.</description>
+      <content>
+&lt;h2 id=&#34;what-im-into&#34;&gt;
+  What I&amp;rsquo;m Into
+  &lt;a href=&#34;#what-im-into&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
 &lt;/h2&gt;
-
-&lt;h3 id=&#34;distinguishing-features&#34;&gt;
-  Distinguishing features
-  &lt;a href=&#34;#distinguishing-features&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
-&lt;/h3&gt;
+&lt;p&gt;When I’m not coding, you’ll probably find me doing one of the following:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Designed for &lt;strong&gt;reading&lt;/strong&gt; and &lt;strong&gt;printing&lt;/strong&gt; text.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Print:&lt;/strong&gt; any page in light theme mode for readability.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://manid2.gitlab.io/cv/&#34;&gt;CV&lt;/a&gt;:&lt;/strong&gt; or resume template to reduce vertical space by using 2 columns
-and shortcodes to list the experiences and skills.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Slides:&lt;/strong&gt; support using &lt;a href=&#34;https://github.com/hakimel/reveal.js&#34;&gt;reveal.js&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Lists&lt;/strong&gt;: separate view and pagination for simple list items and post
-entries.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;GitInfo:&lt;/strong&gt; show the latest git commit short hash and subject message for
-each page (requires Hugo GitInfo config enabled).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Fonts:&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&amp;ldquo;Roboto Slab (serif)&amp;rdquo;&lt;/strong&gt; for title (heading) text.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&amp;ldquo;Fira Sans (sans-serif)&amp;rdquo;&lt;/strong&gt; for normal text.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&amp;ldquo;Ubuntu Mono (monospace)&amp;rdquo;&lt;/strong&gt; for code.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Colors:&lt;/strong&gt; in the theme are derived using a single primary color (blue)
-from the &lt;a href=&#34;https://en.wikipedia.org/wiki/HSL_and_HSV&#34;&gt;HSL colors&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Website banner is supported.&lt;/li&gt;
+&lt;li&gt;Projects&lt;/li&gt;
+&lt;li&gt;Reading: I love reading tech books and novels and sometimes philosophy as well xd.&lt;/li&gt;
+&lt;li&gt;Neovim &amp;amp; Arch Linux: And if I am bored out of the above two, I&amp;rsquo;m probably in too occupied cofiguring my arch linux and neovim to realize I&amp;rsquo;m in an endless black hole.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;adopted-features&#34;&gt;
-  Adopted features
-  &lt;a href=&#34;#adopted-features&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
-&lt;/h3&gt;
+&lt;h2 id=&#34;what-i-do-best&#34;&gt;
+  What I Do Best
+  &lt;a href=&#34;#what-i-do-best&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Minimal configuration.&lt;/li&gt;
-&lt;li&gt;Switchable dark and light themes with automatic selection based on system
-theme.&lt;/li&gt;
-&lt;li&gt;SEO friendly OpenGraph and twitter cards support&lt;/li&gt;
-&lt;li&gt;Customizable using configurations for: &amp;ldquo;full width&amp;rdquo;, &amp;ldquo;centered&amp;rdquo;.&lt;/li&gt;
-&lt;li&gt;Taxonomies and posts RSS.&lt;/li&gt;
-&lt;li&gt;Responsive tested on desktop and on smart phones.&lt;/li&gt;
-&lt;li&gt;Responsive menus for desktop and mobile screens.&lt;/li&gt;
-&lt;li&gt;Accessibility tested using &lt;a href=&#34;https://wave.webaim.org/&#34;&gt;WAVE Web Accessibility Evaluation Tool&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Code blocks are highlighted using Hugo built-in blazing fast &lt;a href=&#34;https://github.com/alecthomas/chroma/&#34;&gt;Chroma&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Copy code, see code language and file name (optional).&lt;/li&gt;
-&lt;li&gt;Tightly coupled with Hugo extended latest version (v1.110.0) to compile and
-generate asset bundles with pipelines, fingerprinting and minification.&lt;/li&gt;
+&lt;li&gt;Backend Development: I have spent a considerable amount of time in backend, there is always more to learn though.&lt;/li&gt;
+&lt;li&gt;Recently got into some hardcore cs as well, plan on making some of my own really cool stuff.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;other-features&#34;&gt;
-  Other features
-  &lt;a href=&#34;#other-features&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
-&lt;/h3&gt;
-&lt;p&gt;These are supported due to &lt;a href=&#34;https://github.com/panr/hugo-theme-terminal&#34;&gt;panr/terminal&lt;/a&gt; theme base code but not
-tested as I don&amp;rsquo;t use them myself:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Post cover image.&lt;/li&gt;
-&lt;li&gt;Images in post with caption.&lt;/li&gt;
-&lt;li&gt;Comments.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;installation&#34;&gt;
-  Installation
-  &lt;a href=&#34;#installation&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;h2 id=&#34;lets-connect&#34;&gt;
+  Let’s Connect
+  &lt;a href=&#34;#lets-connect&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
 &lt;/h2&gt;
-&lt;p&gt;Follow the steps in any one of these methods to install or update a Hugo
-theme.&lt;/p&gt;
-
-&lt;h3 id=&#34;method---using-hugo-mod&#34;&gt;
-  Method - Using hugo mod
-  &lt;a href=&#34;#method---using-hugo-mod&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
-&lt;/h3&gt;
-&lt;p&gt;Add hugo-xterm theme as Hugo module to hide the theme content and let you
-focus only on your site content. Let Hugo handle the theme updates
-automatically and control the theme as a Hugo module instead of git.&lt;/p&gt;
-
-&lt;div class=&#34;highlight-wrapper&#34;&gt;
-  &lt;div class=&#34;highlight-toolbar&#34;&gt;
-    &lt;span class=&#34;item&#34;&gt;
-      &lt;span class=&#34;label&#34;&gt;Lang:&lt;/span&gt;
-      &lt;span class=&#34;name&#34;&gt;bash&lt;/span&gt;
-    &lt;/span&gt;
-
-
-    &lt;button class=&#34;item right outline brighter hide js-btn-copy-code&#34;&gt;Copy&lt;/button&gt;
-  &lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt; 1&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;cd&lt;/span&gt; &amp;lt;your-site-directory&amp;gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt; 2&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt; 3&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# initialize your site as a hugo module.&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt; 4&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;hugo mod init &amp;lt;your-repo-host/your-username/your-site-repo&amp;gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt; 5&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt; 6&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# import hugo-xterm theme as hugo module in configuration&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt; 7&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;$ cat config/_default/config.toml
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt; 8&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;module&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt; 9&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;o&#34;&gt;[[&lt;/span&gt;module.imports&lt;span class=&#34;o&#34;&gt;]]&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;10&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nv&#34;&gt;path&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;github.com/manid2/hugo-xterm&amp;#34;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;11&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;12&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# update theme&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;13&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;hugo mod get -u&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;For all below methods your site needs to point to hugo-xterm theme
-subdirectory in configuration as below:&lt;/p&gt;
-
-&lt;div class=&#34;highlight-wrapper&#34;&gt;
-  &lt;div class=&#34;highlight-toolbar&#34;&gt;
-    &lt;span class=&#34;item&#34;&gt;
-      &lt;span class=&#34;label&#34;&gt;Lang:&lt;/span&gt;
-      &lt;span class=&#34;name&#34;&gt;bash&lt;/span&gt;
-    &lt;/span&gt;
-
-
-    &lt;button class=&#34;item right outline brighter hide js-btn-copy-code&#34;&gt;Copy&lt;/button&gt;
-  &lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;$ cat config/_default/config.toml
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nv&#34;&gt;theme&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;hugo-xterm&amp;#34;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 id=&#34;method---download-and-copy-theme&#34;&gt;
-  Method - Download and copy theme
-  &lt;a href=&#34;#method---download-and-copy-theme&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
-&lt;/h3&gt;
-&lt;p&gt;Download the archived (i.e. .zip or tar.gz) theme from github repository
-releases page. Extract and copy the contents into &lt;code&gt;themes/hugo-xterm&lt;/code&gt;
-subdirectory in your site directory.&lt;/p&gt;
-&lt;p&gt;To update the theme just download a new release and overwrite the same
-subdirectory.&lt;/p&gt;
-&lt;p&gt;This method is simple, can be automated with script and saves space on disk by
-omitting the theme repository history.&lt;/p&gt;
-
-&lt;h3 id=&#34;method---using-git-clone&#34;&gt;
-  Method - Using git clone
-  &lt;a href=&#34;#method---using-git-clone&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
-&lt;/h3&gt;
-&lt;p&gt;This method clones the theme repository with history into your site&amp;rsquo;s themes
-subdirectory which is useful if you want to control the history or make your
-own private modifications to the theme.&lt;/p&gt;
-
-&lt;div class=&#34;highlight-wrapper&#34;&gt;
-  &lt;div class=&#34;highlight-toolbar&#34;&gt;
-    &lt;span class=&#34;item&#34;&gt;
-      &lt;span class=&#34;label&#34;&gt;Lang:&lt;/span&gt;
-      &lt;span class=&#34;name&#34;&gt;bash&lt;/span&gt;
-    &lt;/span&gt;
-
-
-    &lt;button class=&#34;item right outline brighter hide js-btn-copy-code&#34;&gt;Copy&lt;/button&gt;
-  &lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;cd&lt;/span&gt; &amp;lt;your-site-directory&amp;gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;git clone https://github.com/manid2/hugo-xterm themes/hugo-xterm --depth&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;4&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# update theme&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;5&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;cd&lt;/span&gt; themes/hugo-xterm
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;6&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;git pull&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 id=&#34;method---using-git-submodule&#34;&gt;
-  Method - Using git submodule
-  &lt;a href=&#34;#method---using-git-submodule&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
-&lt;/h3&gt;
-&lt;p&gt;This is similar to cloning the theme into subdirectory except using git
-submodule which makes the theme acts a dependency of your site repository. It
-lets git to control your site and its dependency this theme.&lt;/p&gt;
-
-&lt;div class=&#34;highlight-wrapper&#34;&gt;
-  &lt;div class=&#34;highlight-toolbar&#34;&gt;
-    &lt;span class=&#34;item&#34;&gt;
-      &lt;span class=&#34;label&#34;&gt;Lang:&lt;/span&gt;
-      &lt;span class=&#34;name&#34;&gt;bash&lt;/span&gt;
-    &lt;/span&gt;
-
-
-    &lt;button class=&#34;item right outline brighter hide js-btn-copy-code&#34;&gt;Copy&lt;/button&gt;
-  &lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;git submodule add --depth&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; https://github.com/manid2/hugo-xterm &lt;span class=&#34;se&#34;&gt;\
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;themes/hugo-xterm
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;4&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# update theme&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;5&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;git submodule update --remote --merge&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&#34;local-development&#34;&gt;
-  Local development
-  &lt;a href=&#34;#local-development&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
-&lt;/h2&gt;
-
-&lt;div class=&#34;highlight-wrapper&#34;&gt;
-  &lt;div class=&#34;highlight-toolbar&#34;&gt;
-    &lt;span class=&#34;item&#34;&gt;
-      &lt;span class=&#34;label&#34;&gt;Lang:&lt;/span&gt;
-      &lt;span class=&#34;name&#34;&gt;bash&lt;/span&gt;
-    &lt;/span&gt;
-
-
-    &lt;button class=&#34;item right outline brighter hide js-btn-copy-code&#34;&gt;Copy&lt;/button&gt;
-  &lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# add to go.mod for local development&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# replace github.com/manid2/hugo-xterm =&amp;gt; ../hugo-xterm&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;hugo server --source exampleSite&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&#34;credits&#34;&gt;
-  Credits
-  &lt;a href=&#34;#credits&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
-&lt;/h2&gt;
-&lt;p&gt;This theme was initially based on &lt;a href=&#34;https://github.com/panr/hugo-theme-terminal&#34;&gt;panr/terminal&lt;/a&gt; theme but is re-written
-from scratch to optimize for reading and print text heavy web pages.&lt;/p&gt;
-&lt;p&gt;Parts of the features in this theme are either taken directly or based on the
-features from popular themes and websites as listed below:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/panr/hugo-theme-terminal&#34;&gt;panr/terminal&lt;/a&gt;: most styles, menus and starter code.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/adityatelange/hugo-PaperMod&#34;&gt;adityatelange/hugo-PaperMod&lt;/a&gt; features: breadcrumbs and copy code.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/kaitlinmctigue/kaitlinmctigue.github.io&#34;&gt;kaitlinmctigue/kaitlinmctigue.github.io&lt;/a&gt;: dark and light theme modes.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;license&#34;&gt;
-  License
-  &lt;a href=&#34;#license&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
-&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/manid2/hugo-xterm/blob/main/LICENSE&#34;&gt;GNU General Public License v3.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I’m always up for a chat about tech, projects, or just to connect. Feel free to drop me a line through &lt;a href=&#34;https://www.linkedin.com/in/ojastapadia/&#34;&gt;LinkedIn&lt;/a&gt; &lt;a href=&#34;www.github.com/0ju1c3&#34;&gt;Github&lt;/a&gt; &lt;a href=&#34;mailto:otapadia@gmail.com&#34;&gt;otapadia@gmail.com&lt;/a&gt; .&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
 </content>
     </item>
     <item>
